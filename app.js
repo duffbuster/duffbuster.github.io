@@ -1,3 +1,1 @@
-var VAbusinessApp = angular.module('VAbusinessApp', [
-    
-]);
+var VAbusinessApp = angular.module('VAbusinessApp', []);
