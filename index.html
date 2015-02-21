@@ -59,10 +59,10 @@
         <!-- Page Content -->
         <div class="container">
             <!-- Search Box -->
-            <div class="row">
+            <div class="row" ng-controller="messageController">
                 <div class="center-block" style="width: 50%">
                     <div class="input-group">
-                      <input type="text" class="form-control" placeholder="Search for..." ng-change="searching">
+                      <input type="text" class="form-control" placeholder="Search for..." ng-change="change()">
                       <span class="input-group-btn">
                         <button class="btn btn-default" type="button">Go!</button>
                       </span>
@@ -70,7 +70,7 @@
                 </div><!-- /.col-lg-6 -->
                 <div class="muted-message">
                     <!-- TODO: ngchange, add a message that suggestes by name or officer etc -->
-                    <p class="text-muted" ng-show="searching">...business name, officer, date</p>
+                    <p class="text-muted" ng-show="keycounter > 0 && keycounter < 20">...business name, officer, date</p>
                 </div>
             </div>
             <!-- /.row -->
