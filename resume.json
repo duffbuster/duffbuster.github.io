@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "Colin Mackey",
+    "label": "Front End Developer",
+    "picture": "",
+    "email": "colin@fishbrains.com",
+    "phone": "(804) 516-2451",
+    "website": "http://mackeydev.com",
+    "summary": "Colin was born and raised in Richmond, Virginia, where he continues to enrich the city with his presence. He has a degree in Computer Science from the University of Mary Washington. Colin's work takes him to the cutting edge of the Javascript universe, diving into frameworks with ruthless efficiency. While not working and confusing his co-workers with ES2016, Colin enjoys drinking completely reasonable amounts of craft beer, building gaming computers, and keeping up to date on his JS syntax.",
+    "location": {
+      "address": "3505 Stuart Ave",
+      "postalCode": "VA 23221",
+      "city": "Richmond",
+      "countryCode": "US",
+      "region": "Virginia"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "Duffbuster",
+        "url": "https://github.com/duffbuster"
+      },
+      {
+	"network": "LinkedIn",
+	"username": "mackeydev",
+	"url": "https://www.linkedin.com/in/mackeydev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Deedod",
+      "position": "Intern",
+      "website": "http://deedod.com/",
+      "startDate": "2014-10-01",
+      "endDate": "2015-01-15",
+      "summary": "Deedod is a small web dev shop in Fredericksburg, Virginia where Colin interned during his time at Mary Washington. There he focused on learning Angular JS to develop a photo tagging system for a production blog system.",
+      "highlights": [
+	      "Contributed to a production blog as a full stack developer",
+	      "Modified backend architecture to implement a photo tagging system",
+	      "Worked in Angular JS, Cake PHP, and Laravel PHP, along with HTML and CSS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Mary Washington",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2011-08-20",
+      "endDate": "2015-05-18",
+      "courses": [
+	"CPSC 430, Software Development: Team development focusing on iterative development and sprints, web app development in AngularJS and MySQL",
+	"CPSC 470z, Cloud Computing: Exploration of cloud service models: Saas, Paas, and Iaas. Exposure to cloud security and business practices. Development in a micro instance on Amazon Web Services. Cloud application development using MeteorJS."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML 5",
+        "CSS 3",
+        "ES6 Javascript"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Electronic",
+        "Rock n' Roll"
+      ]
+    },
+    {
+      "name": "Nature",
+      "keywords": [
+	"Hiking",
+	"Mountain Biking"
+      ]
+    }
+  ]
+}
