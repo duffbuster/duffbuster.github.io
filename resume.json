@@ -90,7 +90,16 @@
       "keywords": [
         "HTML 5",
         "CSS 3",
-        "ES6 Javascript"
+        "ES6 Javascript",
+	"NodeJS",
+	"Restify",
+	"Redux",
+	"React JS",
+	"Angular JS",
+	"Backbone JS",
+	"Webpack",
+	"Gulp",
+	"MongoDB"
       ]
     }
   ],
