@@ -1,11 +1,11 @@
 Colin Mackey's Resume
 =====================
 
-made with http://jsonresume.org
+Made with http://jsonresume.org
 
-hosted by http://github.com
+Hosted by http://github.com
 
-## want to make your own resume from JSON?
+## Want to make your own resume from JSON?
 
 * `sudo npm install -g resume-cli`
 * `mkdir resume; cd resume`
