@@ -5,65 +5,62 @@
     "picture": "avatar.jpg",
     "email": "colin@fishbrains.com",
     "phone": "(804) 516-2451",
-    "summary": "Colin was born and raised in Richmond, Virginia, where he continues to enrich the city with his presence. He has a degree in Computer Science from the University of Mary Washington. Colin's work takes him to the cutting edge of the Javascript universe, diving into frameworks with ruthless efficiency. While not working and confusing his co-workers with ES8, Colin enjoys drinking completely reasonable amounts of craft beer, building gaming computers, and keeping up to date on his JS syntax.",
+    "summary": "Colin was born and raised in Richmond, Virginia, and is now located in Falls Church. He has a degree in Computer Science from the University of Mary Washington. Colin's work takes him to the cutting edge of the Javascript universe, diving into frameworks with ruthless efficiency. While not working and confusing his co-workers with ES8, Colin enjoys drinking completely reasonable amounts of craft beer, building gaming computers, and keeping up to date on his ES syntax.",
     "location": {
-      "address": "2409 Floyd Ave",
-      "postalCode": "VA 23220",
-      "city": "Richmond",
+      "address": "7312 Parkwood Ct",
+      "postalCode": "VA 22042",
+      "city": "Falls Church",
       "countryCode": "US",
       "region": "Virginia"
     },
-    "profiles": [
-      {
+    "profiles": [{
         "network": "Github",
         "username": "Duffbuster",
         "url": "https://github.com/duffbuster"
       },
       {
-	"network": "LinkedIn",
-	"username": "mackeydev",
-	"url": "https://www.linkedin.com/in/mackeydev"
+        "network": "LinkedIn",
+        "username": "mackeydev",
+        "url": "https://www.linkedin.com/in/mackeydev"
       }
     ]
   },
-  "work": [
-    {
-        "company": "UDig",
-	"position": "Front End Developer",
-	"website": "https://www.udig.com/",
-	"startDate": "2016-12-12",
-	"summary": "",
-	"highlights": [
-	]
+  "work": [{
+      "company": "UDig",
+      "position": "Front End Developer",
+      "website": "https://www.udig.com/",
+      "startDate": "2016-12-12",
+      "summary": "",
+      "highlights": []
     },
-		{
-        "company": "Q Customer Intelligence",
-	"position": "Front End Developer",
-	"website": "https://www.qcustomer.com/",
-	"startDate": "2016-07-01",
-	"endDate": "2016-11-30",
-	"summary": "Q Customer Intelligence is a Richmond, VA based startup providing retail marketers with a powerful tool for managing their customer base. At Q, Colin is responsible for development of their React JS application.",
-	"highlights": [
-		"Startup app development in React JS using ES6",
-		"API development experience with Node JS and Restify",
-		"Responsible for ground up front end development",
-		"Gained experience with small team development"
-	]
-		},
     {
-	"company": "ICF International",
-	"position": "Full Stack developer",
-	"website": "https://www.icf.com/",
-	"startDate": "2015-05-18",
-	"endDate": "2016-06-30",
-	"summary": "ICF International is a full service consulting company focusing on Environmental, Transportation, and Health and Human Services issues. During his time there, Colin worked on a team developing an application for the State of Pennsylvania",
-	"highlights": [
-		"Used Node JS, Gulp, and Yeoman to scaffold and develop responsive themes",
-		"Leveraged AngularJS to build dynamic web forms",
-		"Full stack web development using Liferay Portal web framework",
-		"Assisted with server setup and wrote documentation for the system",
-		"Designed and developed the front end look and feel of system"
-	]
+      "company": "Q Customer Intelligence",
+      "position": "Front End Developer",
+      "website": "https://www.qcustomer.com/",
+      "startDate": "2016-07-01",
+      "endDate": "2016-11-30",
+      "summary": "Q Customer Intelligence is a Richmond, VA based startup providing retail marketers with a powerful tool for managing their customer base. At Q, Colin is responsible for development of their React JS application.",
+      "highlights": [
+        "Startup app development with React/Webpack stack",
+        "API development experience with Node and Restify",
+        "Responsible for ground up front end development",
+        "Gained experience with small team development"
+      ]
+    },
+    {
+      "company": "ICF International",
+      "position": "Full Stack developer",
+      "website": "https://www.icf.com/",
+      "startDate": "2015-05-18",
+      "endDate": "2016-06-30",
+      "summary": "ICF International is a full service consulting company focusing on Environmental, Transportation, and Health and Human Services issues. During his time there, Colin worked on a team developing an application for the State of Pennsylvania",
+      "highlights": [
+        "Used Node, Gulp, and Yeoman to scaffold and develop responsive themes",
+        "Leveraged AngularJS to build dynamic web forms",
+        "Full stack web development using Liferay Portal web framework",
+        "Assisted with server setup and wrote documentation for the system",
+        "Designed and developed the front end look and feel of system"
+      ]
     },
     {
       "company": "Deedod",
@@ -73,40 +70,55 @@
       "endDate": "2015-01-15",
       "summary": "Deedod is a small web dev shop in Fredericksburg, Virginia where Colin interned during his time at Mary Washington. There he focused on learning Angular JS to develop a photo tagging system for a production blog system.",
       "highlights": [
-	      "Contributed to a production blog as a full stack developer",
-	      "Modified backend architecture to implement a photo tagging system",
-	      "Worked in Angular JS, Cake PHP, and Laravel PHP, along with HTML and CSS"
+        "Contributed to a production blog as a full stack developer",
+        "Modified backend architecture to implement a photo tagging system",
+        "Worked in AngularJS, Cake PHP, and Laravel PHP, along with HTML and CSS"
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Mary Washington",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2011-08-20",
-      "endDate": "2015-05-18",
-      "courses": [
-	"CPSC 430, Software Development: Team development focusing on iterative development and sprints, web app development in AngularJS and MySQL",
-	"CPSC 470z, Cloud Computing: Exploration of cloud service models: Saas, Paas, and Iaas. Exposure to cloud security and business practices. Development in a micro instance on Amazon Web Services. Cloud application development using MeteorJS."
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Intermediate",
+  "education": [{
+    "institution": "University of Mary Washington",
+    "area": "Computer Science",
+    "studyType": "Bachelor of Science",
+    "startDate": "2011-08-20",
+    "endDate": "2015-05-18"
+  }],
+  "skills": [{
+      "name": "Frameworks",
       "keywords": [
-	"Angular",
-	"React",
-        "HTML 5",
-        "CSS 3",
-        "Javascript",
-				"NodeJS",
-				"Redux",
-	"Webpack",
-	"Gulp",
-	"MongoDB"
+        "Angular",
+        "React"
+      ]
+    }, {
+      "name": "Languages",
+      "keywords": [
+        "ES7",
+        "TypeScript",
+        "Vanilla JavaScript"
+      ]
+    }, {
+      "name": "Bundlers",
+      "keywords": [
+        "Webpack",
+        "Babel",
+        "Gulp"
+      ]
+    },
+    {
+      "name": "Testing Frameworks",
+      "keywords": [
+        "Jasmine",
+        "Jest",
+        "Mocha",
+        "Chai"
+      ]
+    },
+    {
+      "name": "Bootstrapping Tools",
+      "keywords":[
+        "Angular CLI",
+        "Create React App",
+        "Yeoman"
       ]
     }
   ]
