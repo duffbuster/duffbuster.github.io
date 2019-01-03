@@ -27,11 +27,16 @@
   },
   "work": [{
       "company": "UDig",
-      "position": "Front End Developer",
+      "position": "Consultant",
       "website": "https://www.udig.com/",
       "startDate": "2016-12-12",
-      "summary": "",
-      "highlights": []
+      "summary": "UDig is a technology consultancy based out of Richmond, Virginia. They focus on bringing maintanable, complete solutions to their clients.",
+      "highlights": [
+        "Worked on a variety of projects using front end frameworks.",
+        "Worked as sole front end developer on two major contracts.",
+        "Created a maintainable React component library for a client based on Material UI.",
+        "Worked with Angular CLI to build a project from the ground up."
+      ]
     },
     {
       "company": "Q Customer Intelligence",
